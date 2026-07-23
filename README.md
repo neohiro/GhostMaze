@@ -51,3 +51,8 @@ A Word to Fellow Mages & Scholars
 This project is an open scroll of knowledge! Contributions and collaborations are not only welcome but celebrated. Feel free to fork this repository, send pull requests with your own magical improvements, or report any foul bugs you encounter on your journey.
 
 May your path be true and your courage unwavering!
+
+## 📦 Installation
+
+You can download the compiled standalone release for your operating system (Windows, macOS, or Linux) directly from the **[Releases](../../releases)** tab. No Python installation is required! Just download the .zip for your OS, extract, and run.
+
