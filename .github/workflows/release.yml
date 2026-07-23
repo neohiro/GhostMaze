@@ -45,7 +45,7 @@ jobs:
         if: matrix.os == 'windows-latest'
         run: |
           pyinstaller --noconfirm --onedir --windowed GhostMaze.PY
-          Compress-Archive -Path "dist\GhostMaze\*" -DestinationPath "GhostMaze-Windows.zip" -Force
+          Compress-Archive -Path "dist\GhostMaze" -DestinationPath "GhostMaze-Windows.zip" -Force
 
       - name: Build macOS Executable
         if: matrix.os == 'macos-latest'
